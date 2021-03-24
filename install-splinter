@@ -4,7 +4,7 @@ set -u
 
 splinter_dir="splinter"
 splinter_zip="${splinter_dir}.zip"
-splinter_archive="https://github.com/marcomc/splinter/archive/master.zip"
+splinter_archive="https://github.com/plivo/splinter/archive/master.zip"
 base_profile="base"
 base_profile_example="base-example"
 
